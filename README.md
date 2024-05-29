@@ -14,6 +14,8 @@ As matos que trabalhamos são a xre, bmw e a titan.
 
 ![](https://github.com/LuisRoch4/Motor-Xtreme/blob/master/minialtura/modelos-de-motos.png)
 
-# CONTATO
+# LOCALIZAÇÃO
+
+Loacalização da loja
 
 ![](https://github.com/LuisRoch4/Motor-Xtreme/blob/master/minialtura/CONTATO.png)
